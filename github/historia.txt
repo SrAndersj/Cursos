@@ -1,0 +1,5 @@
+es una buena practica no agregar archivos binarios a los repositorios
+una imagen es un archivvo binario
+
+
+ debido a que cualquier cambio ocurrido en la imagen por cada push se vuelve super pesado el archivo

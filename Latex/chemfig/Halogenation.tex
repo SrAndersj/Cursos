@@ -1,0 +1,162 @@
+% !TeX spellcheck = es_ES
+% !TeX TS-program = 
+\documentclass[b5paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{chemfig}
+\pagestyle{empty}
+\begin{document}
+
+
+%svg uno halogenation  
+
+%
+\schemestart
+\chemfig{-[-1]C(-[-3])=C(-[1])-[-1]}  
+\arrow{0}[,0]\+ 
+\chemfig{X-X}
+\arrow
+\chemfig{-[-2]C(-[-2]X)(-[4])-C(-[6]X)(-[0])-[2]}
+\schemestop
+
+
+%
+%\bigskip
+%\bigskip
+%svg dos
+
+%\schemestart
+%\chemfig{H-[-1]C(-[-3]H)=C(-[1]H)-[-1]H}  
+%\arrow{0}[,0]\+ 
+%\chemfig{Cl_2}
+%\arrow
+%\chemfig{H-[-2]C(-[-2]Cl)(-[4]H)-C(-[6]Cl)(-[0]H)-[2]H}
+%\schemestop
+%
+%
+%
+%svg 3
+
+%\schemestart
+%\chemfig{*6(--=---)}  
+%\arrow{0}[,0]\+ 
+%\chemfig{Br_2}
+%\arrow
+%\chemfig{*6(--(-Br)-(-Br)---)}
+%\schemestop
+
+
+%svg 4
+
+
+
+
+
+
+
+
+%enantiomeros
+%\schemestart
+%\chemfig{*6(--=---)}  
+%\arrow{0}[,0]\+ 
+%\chemfig{Br_2}
+%\arrow
+%\chemfig{*6(--(<:Br)-(<Br)---)}
+%\arrow{0}[,0]\+ 
+%\arrow{0}[,0]
+%\chemfig{*6(--(<Br)-(<:Br)---)}
+%\schemestop
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+%reaccion
+
+\schemestart
+\chemfig{[:90]-[1]@{aC}C(-[-1])=_[@{db}]C(-[3])-[1]}  
+\hspace{1cm}
+\chemfig{[:90]@{aCl2}\lewis{2:4:6:,X}-@{aCl}\lewis{0:2:6:,X}}
+\arrow{->}
+\chemfig{C*3(-C-\chemabove[3pt]{\lewis{0:4:,X}}{\scriptstyle\hspace{-1mm}+}-)}
+\hspace{0.5cm}
+\chemfig{+}
+\hspace{0.5cm}
+\chemfig{\chemabove[3pt]{\lewis{0:2:4:6:,X}}{\scriptstyle\hspace{-3mm}-}}
+\schemestop
+\chemmove{\draw [,,,,red](db).. controls +(100:5mm) and +(145:5mm)..(aCl);}
+\chemmove{\draw [,,,,red](aCl).. controls +(65:-5mm) and +(170:-5mm)..(aC);}
+\chemmove{\draw [,,,,red][shorten <=20pt,shorten >=4pt] (aCl.87).. controls +(-90:1cm) and +(120:1cm).. (aCl2);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%
+%\bigskip
+%\bigskip
+%
+\schemestart
+\chemfig{C*3(-@{aC}C-@{aXX}\chemabove[3pt]{\lewis{0:4:,X}}{\scriptstyle\hspace{-1mm}+}-)}
+\hspace{0.5cm}
+\chemfig{+}
+\hspace{0.5cm}
+\chemfig{@{aX}\chemabove[3pt]{\lewis{0:2:4:6:,X}}{\scriptstyle\hspace{-3mm}-}}
+\arrow{->}
+\chemfig{-[-2]C(-[-2]\lewis{0:4:6:,X})(-[4])-C(-[6])(-[0])-[2]\lewis{0:2:4:,X}}
+\schemestop
+\chemmove{\draw [,,,,red][shorten <=6pt,shorten >=4pt](aX).. controls +(100:5mm) and +(14:5mm)..(aC);}
+\chemmove{\draw [,,,,red][shorten <=6pt,shorten >=4pt](aC).. controls +(-210:5mm) and +(14:5mm)..(aXX);}
+%
+%
+
+
+
+
+
+
+
+
+%	<bond>[<angle spec>,<length factor>,<other parameters>]
+
+%	\chemfig{
+%		CH
+%		(-O-[:30]C(=[:90,.7]O)-[:-30]R_2)
+%		(-[:90]CH_2-O-[:30]C(=[:90,.7]O)-[:-30]R_1)
+%		(-[:-90]CH_2-O-[:30]C(=[:90,.7]O)-[:-30]R_3)
+
+%	}
+
+
+
+
+
+%pdf2svg Halogenation.pdf dos.svg
+%dvisvgm --no-fonts Halogenation.dvi
+
+\end{document}

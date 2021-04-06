@@ -1,0 +1,15 @@
+calculos.txt
+indexComandos.html
+lista.txt
+README.md
+uno.png
+
+
+despues de esto deberia ingresar lo otro 
+total 980
+-rw-rw-r-- 1 anders anders     11 jun 23 16:01 calculos.txt
+-rw-rw-r-- 1 anders anders   6142 jun 23 16:01 indexComandos.html
+-rw-rw-r-- 1 anders anders    104 jun 24 17:04 lista.txt
+-rw-rw-r-- 1 anders anders   1262 jun 24 17:02 README.md
+-rw-rw-r-- 1 anders anders 979176 jun 23 16:01 uno.png
+

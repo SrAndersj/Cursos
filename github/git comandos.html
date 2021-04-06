@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Comandos git</title>
+
+    <!-- Compiled and minified CSS -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+
+  </head>
+  <body>
+
+    <div class="container">
+
+
+      <div class="card-panel teal lighten-5">¿Qué es el staging y los repositorios? Ciclo básico de trabajo en Git</div>
+
+        <div class="row">
+
+          <div class="col s3">
+            <div class="card-panel teal lighten-2">
+
+            git init
+          </div>
+          </div>
+
+          <div class="col s9">
+            <div class="card-panel pink accent-2">
+
+              se crea un area en memoria ram que se llama staging  , y se crea el repositorio que es la carpeta que se conoce con el <b> .git  </b>
+
+
+          </div>
+        </div>
+
+
+        </div>
+
+        <!--   - - - - - - - - - - - - - - - -  -->
+
+        <div class="row">
+
+
+          <div class="col s3">
+            <div class="card-panel teal lighten-2">
+
+              git add .
+            </div>
+          </div>
+          <div class="col s9">
+            <div class="card-panel pink accent-2">
+
+
+              agrega las cosas al staging , cuando el archivo vive aqui espera a que lo envie al repositorio con <b> git commit -m "mensaje ,(las tildes en este mensaje son necesarias)"</b>   o lo remueva con <b>git rm </b>
+
+<p> a esto se le dice que el archivo esta trackeado</p>
+          </div>
+        </div>
+
+        </div>
+
+        <!--   - - - - - - - - - - - - - - - -  -->
+
+
+<div class="row">
+
+
+  <div class="col s3">
+    <div class="card-panel teal lighten-2">
+
+      git commit -m "mensaje"
+      </div>
+  </div>
+
+  <div class="col s9">
+    <div class="card-panel pink accent-2">
+
+    las tildes en este mensaje son necesarias
+
+  </div>
+</div>
+</div>
+
+
+<!--   - - - - - - - - - - - - - - - -  -->
+
+  <div class="row">
+
+
+    <div class="col s3">
+      <div class="card-panel teal lighten-2">
+
+
+        </div>
+    </div>
+
+    <div class="col s9">
+      <div class="card-panel pink accent-2">
+
+    </div>
+  </div>
+  </div>
+
+
+  <!--   - - - - - - - - - - - - - - - -  -->
+
+
+    <div class="card-panel teal lighten-5">¿Qué es un Branch (rama) y cómo funciona un Merge en Git? </div>
+
+
+    <div class="row">
+
+
+      <div class="col s3">
+        <div class="card-panel teal lighten-2">
+
+          merge
+          </div>
+      </div>
+
+      <div class="col s9">
+        <div class="card-panel pink accent-2">
+con esto unimos los cambios de una rama a la version actual
+      </div>
+    </div>
+    </div>
+
+    <!--   - - - - - - - - - - - - - - - -  -->
+
+        <div class="card-panel teal lighten-5"> Introducción a las ramas o branches de Gits</div>
+
+
+
+
+
+
+
+    <div class="row">
+
+      <div class="col s3">
+        <div class="card-panel teal lighten-2">
+
+        git commit -am
+      </div>
+      </div>
+
+      <div class="col s9">
+        <div class="card-panel pink accent-2">
+
+
+        esto automaticamente hace gid add . pero solo ha archivos que ya hemos hecho gid add . previamente. entonces si hay un archivo completamente nuevo no funciona
+      </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+
+
+      <div class="col s3">
+        <div class="card-panel teal lighten-2">
+
+          git checkout
+          <p>git checkout #commit</p>
+
+          <p>git checkout master</p>
+          </div>
+      </div>
+
+      <div class="col s9">
+        <div class="card-panel pink accent-2">
+
+          <p>en palabras sencillas se mueve entre ramas</p>
+
+        va a la version de cambio que esta en el repositorio y lo trae a la carpeta , podemos ttraer todos los cambios o los que queramos dependiendo de cada commit hecho
+
+      </div>
+    </div>
+    </div>
+
+
+    <div class="row">
+
+
+      <div class="col s3">
+        <div class="card-panel teal lighten-2">
+
+          git merge  nombre de la rama
+          </div>
+      </div>
+
+      <div class="col s9">
+        <div class="card-panel pink accent-2">
+
+          <p>en palabras sencillas se mueve entre ramas</p>
+
+         con esto nos hechamos la vendicion e intentamos unir el mierdero de dos ramas y si no genera error no lloramos
+
+      </div>
+    </div>
+    </div>
+
+
+    <div class="row">
+
+
+      <div class="col s3">
+        <div class="card-panel teal lighten-2">
+
+      <p>    git remote add origin  https://github.com/ByAndersj/primer-archivo-en-git-hub-.git   para protocolo https
+</p>
+<p>git remote set-url origin git@github.com:ByAndersj/primer-archivo-en-git-hub-.git           para protocolo ssh</p>
+          <p>git remote -v</p>
+
+          </div>
+      </div>
+
+      <div class="col s9">
+        <div class="card-panel pink accent-2">
+
+          agregar el repositorio de github
+      </div>
+    </div>
+    </div>
+
+
+        <div class="row">
+
+
+          <div class="col s3">
+            <div class="card-panel teal lighten-2">
+
+              <p> git push origin nombre de la rama
+</p>
+
+<p> git pull origin nombre de la rama
+</p>
+
+<p>
+git pull origin master --allow-unrelated-histories
+</p>
+
+
+              </div>
+          </div>
+
+          <div class="col s9">
+            <div class="card-panel pink accent-2">
+
+              subirlo  y el -- allow fuerza a combinar lo de git hub y lo local entonces pum el readme que habia arriba pasa al local
+
+
+              <p>cuando quiero bajar algo de arriba usoo el pull</p>
+          </div>
+        </div>
+        </div>
+
+
+
+        <div class="row">
+
+
+          <div class="col s3">
+            <div class="card-panel teal lighten-2">
+
+      git config -l
+
+              </div>
+          </div>
+
+          <div class="col s9">
+            <div class="card-panel pink accent-2">
+
+mirar info
+          </div>
+        </div>
+        </div>
+
+
+
+
+
+
+        <div class="row">
+
+
+          <div class="col s3">
+            <div class="card-panel teal lighten-2">
+
+
+
+              <p>git --all --graph
+        </p>
+              </div>
+          </div>
+
+          <div class="col s9">
+            <div class="card-panel pink accent-2">
+
+              <p> git log --all --graph --decorate --oneline
+</p>
+
+<p>alias arbolito=" git log --all --graph --decorate --oneline"
+</p>
+
+          </div>
+        </div>
+        </div>
+
+
+
+
+        <div class="row">
+
+
+          <div class="col s3">
+            <div class="card-panel teal lighten-2">
+
+
+
+              <p>git tag -a v0.1 -m "primera version" 3817e67
+
+        </p>
+
+        <p>git show-ref --tag</p>
+
+        <p>git push origin --tags
+</p>
+
+<p>para borrar tag      git tag -d nombredeltag         luego usamos
+git push origin :refs/tags/nombredeltag</p>
+              </div>
+          </div>
+
+
+        </div>
+
+
+
+
+<!--  -->
+
+<div class="row">
+
+
+  <div class="col s3">
+    <div class="card-panel teal lighten-2">
+<p>git branch</p>
+
+<p>git branch nombreRamaACrear</p>
+<p>git show-branch</p>
+<p>git show-branch --all</p>
+<p>gitk</p>
+
+<p>git branch -d header
+                         borrar </p>
+
+
+      </div>
+  </div>
+
+  <div class="col s9">
+    <div class="card-panel pink accent-2">
+
+<p>git branch nombreRamaACrear                             estandares de la industria <b>header , footer </b>
+
+</p>
+
+
+  </div>
+</div>
+
+
+</div>
+
+
+
+<!--  -->
+
+
+
+
+
+
+<div class="row">
+
+
+  <div class="col s3">
+    <div class="card-panel teal lighten-2">
+
+
+<p>git clone https://github.com/ByAndersj/primer-archivo-en-git-hub-.git</p>
+
+      </div>
+  </div>
+
+  <div class="col s9">
+    <div class="card-panel pink accent-2">
+
+<p>cuando vas a unirte al proyecto de alguien mas , primero lo estoy haciendo por https lo que significa que
+
+
+
+nota hasta que el dueno del repositorio no agregue al nuevo editor no es posible hacer push para subir a github   (esto se hace mediante los settings del repositorio en github
+....colaboradores agregando su user name para no usar el correo porque tocaria volverlo publico y nah) despues de ser agregado entonces se genera un codigo y se debe enviar a la persona que necesita el acceso </b>
+
+</p>
+
+
+  </div>
+</div>
+
+
+</div>
+
+
+
+<!--  -->
+
+<div class="row">
+
+
+  <div class="col s3">
+    <div class="card-panel teal lighten-2">
+
+<p>git reset #commit</p>
+
+      </div>
+  </div>
+
+  <div class="col s9">
+    <div class="card-panel pink accent-2">
+
+
+<p>Este comando nos ayuda a volver en el tiempo. Pero no como git checkout que nos deja ir, mirar, pasear y volver. Con git reset volvemos al pasado sin la posibilidad de volver al futuro. Borramos la historia y la debemos sobreescribir. No hay vuelta atrás.</p>
+
+  </div>
+</div>
+
+
+</div>
+
+
+
+<!--  -->
+
+
+
+<div class="row">
+
+
+  <div class="col s3">
+    <div class="card-panel teal lighten-2">
+
+<p>
+<b>
+pool request</b>
+
+</p>
+
+      </div>
+  </div>
+
+  <div class="col s9">
+    <div class="card-panel pink accent-2">
+<p> </p>
+
+DevOps administrador del entorno de desarrollo
+
+
+
+  </div>
+</div>
+
+
+</div>
+
+
+    </div>
+
+
+
+
+
+
+
+
+    </div>
+
+
+<!-- crear llaves de seguridad    <!- ssh-keygen -t rsa -b 4096 -C "jhonntan.castano@gmail.com" --> -->
+
+<!-- eval $(ssh-agent -s)             mirar si el programita del computador que corre las llaves esta funcionando-->
+
+
+<!-- ssh-add ~/.ssh/id_rsa                agregar al pc mi llave-->
+
+<!-- git remote set-url origin git@github.com:ByAndersj/primer-archivo-en-git-hub-.git                           cambiar de https a ssh en la direccion que maneja git para acceder a github-->
+
+  </body>
+</html>

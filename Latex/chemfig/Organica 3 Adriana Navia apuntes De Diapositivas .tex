@@ -1,0 +1,133 @@
+\documentclass[10pt,a4paper]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[left=2.00cm]{geometry}
+\usepackage{xymtex}
+\usepackage{chemfig}
+
+\begin{document}
+	
+	
+
+	
+	
+	
+	\section{Synthesis}
+
+	
+	
+	\schemestart
+	\chemfig{[7]R-(-[1]-[0]-(=[6]O)-[1]R )=[6]O}
+	\arrow{->[$H_2O^+  , H^+$][]}
+	\chemfig{*5(-=(-R)-O-(-R)=)}
+	\schemestop
+	
+\schemestart
+\chemfig{*5(-=-N(-[2,0.5]H)-=)}
+\hspace{3em}
+\arrow{->[$AcO-NO_2$][$AcOH ,-10^C$]}
+\hspace{3em}
+\chemfig{*5(-=(-NO_2)-N(-[2,0.5]H)-=)}
+\schemestop
+
+\schemestart
+\chemfig{*5(-=-N(-[2,0.5]H)-=)}
+\hspace{3em}
+\arrow{->[$AcO-NO_2$][$AcOH ,-10^C$]}
+\hspace{3em}
+\chemfig{*5(-(-NO_2)=-N(-[2,0.5]H)-=)}
+\schemestop
+
+\schemestart
+\chemfig{*5(-=-O-=)}
+\hspace{3em}
+\arrow{->[$Br-Br$][]}
+\hspace{3em}
+\chemfig{*5(=-(-Br)-O-(-Br)-)}
+\schemestop
+	
+	
+	
+\schemestart
+\chemfig{*5(-=-O-=)}
+\hspace{3em}
+\arrow{->[$AcO-NO_2$][$AcOH O ^0C $]}
+\hspace{3em}
+\chemfig{*5(=-(-NO_2)-O-(-Br)-)}
+\schemestop
+
+
+\schemestart
+\chemfig{*5(-=-N(-[2,0.5]H)-=)}
+\hspace{3em}
+\arrow{->[$BuLi$][$RCOCl$]}
+\hspace{3em}
+\chemfig{*5(-=-N(-(-[3]R)=[0]O)-=)}
+\schemestop
+lend
+	
+\section{Retrosynthesis}
+	
+		\schemestart
+	\chemfig{*5(-=(-R)-O-(-R)=)}
+	\hspace{3em}
+	\arrow{0}[,0]{\Huge $\Longrightarrow$}
+	\hspace{3em}
+	\chemfig{[7]R-(-[1]-[0]-(=[6]O)-[1]R )=[6]O}
+	\schemestop
+	
+	\section{molecule list}
+	
+	
+		\chemfig{*5(-=(-R)-N(-[2,0.5]H)-(-R)=)}
+	
+	
+	
+	
+	
+	
+	\chemfig{[7]R-(-[1]-[0]-(=[6]O)-[1]R )=[6]O}
+	
+	
+	\chemfig{*5(-=-N(-[2,0.5]H)-=)}
+	
+	\chemfig{*5(-=(-NO_2)-N(-[2,0.5]H)-=)}
+	
+	\chemfig{*5(-(-NO_2)=-N(-[2,0.5]H)-=)}
+	
+	
+	\chemfig{*5(-=-O-=)}
+	
+	\chemfig{*5(=-(-Br)-O-(-Br)-)}
+	
+	\chemfig{
+		O% 8
+		=[:270]% 7
+		(
+		-[:330,,,1]OH% 9
+		)
+		-[:210]% 3
+		-[:270]% 2
+		-[:210]% 1
+		-[:150]% 6
+		-[:90]% 5
+		-[:30]% 4
+		(
+		-[:330]% -> 3
+		)
+	}
+
+\chemfig{O=[:270](-[:330,,,1]OH)-[:210]-[:270]-[:210]-[:150]-[:90]-[:30](-[:330])}
+
+
+
+
+\section{articulo pineacole}
+
+	\chemfig{4=[:127.9]3(-[:32.9]5(-[:112.9]7)(-[:52.9]8)-[:352.9]6)-[:157.9]-[:35.8,0.998]-[:143.9,1.002](-[:52]9(-[:102]1(-[:162]3)(-[:102]4)-[:42]2)=[:352]0)-[:180,1.219]-[:217.1,0.977](-[:154.1]5(-[:104.1]7(-[:164.1]9)(-[:104.1]0)-[:44.1]8)=[:214.1]6)-[:323.2,0.973](-[,1.219])-[:271,1.81]2(-[:241.6]1(=[:201.6]6)-[:321.6]2(-[:21.6]4)(-[:321.6]5)-[:261.6]3)-[:143.2,0.973]0(-[:91,1.81])-[:37.4,0.971](-[:90.8,1.81])(-[:204.4,1.714]7(-[:144.4]9(-[:204.4]1)(-[:144.4]2)-[:84.4]0)=[:264.4]8)-[,1.226](-[:91,1.81])-[:323.9,1.002](-[:215.8,0.998]1(-[:91,1.81])-[:180,1.219]2)(-[:91,1.81])-[:323.4]3(=[:263.4]8)-[:23.4]4(-[:323.4]5)(-[:83.4]6)-[:23.4]7}
+	
+\end{document}

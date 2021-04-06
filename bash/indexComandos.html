@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de bash shell paltzi</title>
+
+
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+
+
+</head>
+
+<body>
+
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col s4">
+                <div class="card-panel teal lighten-5">
+                    <p>vim .vimrc</p>
+                    <p>set showmode
+                    </p>
+                    <p>set autoident
+                    </p>
+                    <p>set tabstop=4
+                    </p>
+                    <p>set expandtab
+                    </p>
+                    <p>syntax on
+                    </p>
+
+
+                    <p>ls -la revisar en home</p>
+
+                    <p>vim 1_utilityPostgres.sh</p>
+                    <p>ls -l 1_utilityPostgres.sh
+                    </p>
+                    <p>cat</p>
+
+
+                    <p>entonces cambio de permisos <b>chmod 764 1_utilityPostgres.sh
+                </b> </p>
+
+
+                    <p>dejando los permisos como estaban <b>chmod 664 1_utilityPostgres.sh
+                </b></p>
+
+
+                    <p>permisos de ejecucion <b>chmod +x 1_utilityPostgres.sh</b></p>
+
+
+                    <p>como ejecuatar
+
+                        <b>
+                            
+                            <p>bash 1_utilityPostgres.sh</p>
+                        <p>./1_utilityPostgres.sh</p>
+
+
+    
+                    </b></p>
+                    <b>
+    <p>type ls</p>
+<p>type cd</p>
+<p>type -a ls</p>
+<p>type -t cd    para saber si hay dos con el mismo nombre pero distintos lugartes creo</p>
+
+</b>
+
+                    <p><b>type 1_utilityPostgres.sh</b></p>
+
+                </div>
+
+            </div>
+            <div class="col s8">
+                <div class="card-panel pink accent-2">para salir sostenemos <b>esc y digitar :wq</b>
+
+
+                    <p><b>permisos -rw-rw-r--</b> -usuario-grupo-cualquier otro usuario-- </p>
+                    <p> 421 <b>lectura escritura ejecucion </b> cuando suman 7 significa que tiene todos los permisos (421=7)</b>
+                    </p>
+
+
+                    <p><b>type</b> necesitamos saber que el nombre que damos no tendra el mismo nombre alias que algun comando del sistema</p>
+
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col s4">
+                <div class="card-panel teal lighten-5">
+
+                    <p>dos tipos de variable ,,de usuario y de sistema operativo(de entorno)</p>
+                    <p>
+                        las variables de entorno relacionadas al sistema operativo <b>vim /etc/profile </b>
+                    </p>
+                    <p><b> sudo vim /etc/profile</b></p>
+
+                    <b>
+
+    
+                        <p>vim 2_variables.sh</p>
+
+                             <p>chmod +x 2_variables.sh
+
+                                   </b>
+
+
+                    <p><b>cp 2_variables.sh 2_variables_2.sh 
+                             </b></p>
+
+
+
+
+                    <p>para copiar esc yy luego p</p>
+                    <p></p>
+
+                </div>
+            </div>
+            <div class="col s8">
+                <div class="card-panel pink accent-2">
+
+                    <p>#variables de entorno S.O</p>
+                    <p>COURSE_NAME=Programacion Bash
+                    </p>
+                    <p>export COURSE_NAME
+                    </p>
+
+                    <p>#1/bin/bash #programa para revisar la declaracion de variables
+
+
+
+                        <p>opcion=0</p>
+                        <p>nombre=Anders
+                        </p>
+                        <p>echo "Opcion: opcion y Nombre:$nombre" ~ ~ ~ ~
+                        </p>
+                    </p>
+
+
+
+                    <p><b>para borrar rapido lineas entearas dentro de vim esc +dd</b></p>
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="row">
+            <div class="col s4">
+                <div class="card-panel teal lighten-5"> ./4_argumentos.sh 'programacion bash' '18:00 a 20:00'</div>
+
+            </div>
+
+            <div class="col s8">
+                <div class=" card-panel pink accent-2">
+
+                    <p>nombreCurso=$1
+
+                    </p>
+                    <p>horarioCurso=$2
+
+                    </p>
+
+                    <p>echo "el nombre del curso es : $nombreCurso dictado en el horario de $horarioCurso"
+                    </p>
+
+                    <p>echo "el numero de paramentros enviados es : $#"
+                    </p>
+
+                    <p>echo "los paramentros enviados son:$*"
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+        <div class="container">
+
+
+            <div class="row">
+                <div class="col s4">
+                    <div class="card-panel teal lighten-3">
+
+
+                        <p> bash -v 1_utilityPostgres.sh
+                        </p>
+
+                        <p>
+                            bash -x 1_utilityPostgres.sh
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
+
+#div.row>col.s4>card-panel.teal.ligthen-5

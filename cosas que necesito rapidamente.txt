@@ -1,0 +1,76 @@
+jack alsa
+
+https://linuxmusicians.com/viewtopic.php?t=17074
+
+sudo apt install a2jmidid
+
+a2jmidid -e &
+
+locate hydrogen
+
+
+
+para arduino
+
+sudo usermod -a -G dialout byandersj
+
+
+
+
+canal del live
+
+youtube.com/channel/UCMBu9UxS0Tz0H_ONrnRHwAg/live
+
+
+navegador linea de comandos
+
+lynx
+
+
+esta instalacion si funciona con el zynaddsubfx cool
+
+https://github.com/zynaddsubfx/zyn-fusion-build/wiki/Building-on-Linux
+
+
+lv2 
+sudo apt-get install -y samplv1-lv2
+
+ardour 6 actualizar ubuntu studio
+https://salmorejogeek.com/2020/06/04/ubuntu-studio-lanza-un-ppa-para-ardour-6-actualizacion-instalacion-en-ubuntu-20-04-sabores-y-basadas/
+
+
+
+las congas y bongos estan aqui
+https://vis.versilstudios.com/vcsl.html
+https://github.com/sgossner/VCSL
+
+
+Baudline 
+http://www.baudline.com/manual/options.html
+
+para convertir audio en midi
+https://www.sonicvisualiser.org/
+
+mol2chemfig
+https://ctan.org/pkg/mol2chemfig
+http://chimpsky.uwaterloo.ca/mol2chemfig/
+
+CAMARA OBS STUDIO DROID CAM 
+https://dev47apps.com/obs/
+
+sinfonic orquesta cursos espanol
+https://orquestacionmidi.com/cursob65389276?gc_id=9653625047&gclid=Cj0KCQiAx9mABhD0ARIsAEfpavQkUrF25tMZfXyiguhb7yh0GbqxTXLzZQ_WPRAzMwf7XgBB2b4p0RYaAhjtEALw_wcB
+
+
+/opt/mendeleydesktop/share/applications/
+
+fonts que uso
+
+/usr/share/matplotlib/mpl-data/fonts/
+
+
+sf2
+https://musical-artifacts.com/artifacts?formats=sf2&order=top_rated&tags=choir
+
+
+

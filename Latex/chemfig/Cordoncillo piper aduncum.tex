@@ -1,0 +1,41 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{chemfig}
+\pagestyle{empty}
+\begin{document}
+	
+%\chemfig[atom sep = 50pt]{a-b}
+
+%\chemfig[bond style ={line width = 3pt,red}]{a-b}
+
+%\chemfig{[atom sep = 50pt]}
+	
+	
+	
+%	\chemfig{[:90]*4(-([:60]*6(---=(*6(----(-[0])))))---)}
+	
+\chemname{\chemfig{[:90]([:60]*6(---(-[2]CH_3)=(*6(---(=[5]CH_2)-(-[0,1.73])(-[:-80]-[0,1.4](-[:-75]CH_3)(-[:-30]CH_3)-[:80](<:[-1]H))(<[5]H)))))}}{$\beta$-caryophyllene } \hspace{50mm}
+\chemname{\chemfig{*6(-(-(<[:100,1.8]O?)(-[5])(-[7]))---?(-)--)}}{1,8 Cineole}
+	
+%	<bond>[<angle spec>,<length factor>,<other parameters>]
+	
+%	\chemfig{
+%		CH
+%		(-O-[:30]C(=[:90,.7]O)-[:-30]R_2)
+%		(-[:90]CH_2-O-[:30]C(=[:90,.7]O)-[:-30]R_1)
+%		(-[:-90]CH_2-O-[:30]C(=[:90,.7]O)-[:-30]R_3)
+
+%	}
+
+%setatomsep{50pt}\chemfig{CH([:45]-[0]O-[1]C(=[::+45]O)-[7]R_2)([:90]-CH_2 -[0]O-[1]C(=[::+45]O)-[7]R_1)([:-90]-CH_2 -[0]O-[1]C(=[::+45]O)-[7]R_3)}
+
+%pdf2svg Halogenation.pdf dos.svg
+%dvisvgm --no-fonts Halogenation.dvi
+		 
+	
+\end{document}

@@ -1,0 +1,167 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{chemfig}
+\begin{document}
+%\chemfig{A-B-[1]C}
+%\chemfig{A-[:45]-[::20]-[::45]B}
+
+\chemfig{H-[:30]O-[:-30]H}
+
+%\chemfig{A-B(-[1]w-X)-C}
+
+\chemfig{R-C(=[::+60]O)-[::-60]O-[::-60]C(=[::+60]O)-[::-60]R}
+
+
+\chemfig{[:90]R-C(=[::+60]O)-[::-60]O-[::-60]C(=[::+60]O)-[::-60]R}
+
+
+\chemfig{A*5(-B=C-D-E=)}
+
+
+\chemfig{*5(-=--=)}
+
+
+
+\chemfig{**6(------)}\quad
+\chemfig{**[30,330]5(-----)}\quad
+\chemfig{**[0,270,dash pattern=on 2pt off 2pt]4(----)}
+
+rotation
+
+\chemfig{A*6(------)}
+
+\chemfig{[:60]A*6(------)}
+
+
+ring 4
+\linebreak
+\chemfig{A-[:25]B*4(----)}
+
+\chemfig{X*6(-=-(-A-B=C)=-=-)}
+
+\chemfig{*5(--*6(-*4(-*5(----)--)----)---)}
+
+\chemfig{A-B*5(-C-D*5(-X-Y-Z-)-E-F-)}
+
+
+
+
+
+\schemestart
+\chemfig{@{a1}=_[@{db}::30]-[::-60]\lewis{2,X}}
+\arrow{<->}
+\chemfig{\chemabove{\vphantom{X}}{\ominus}-[::30]=_[::-60]
+	\chemabove{X}{\scriptstyle\oplus}}
+\schemestop
+\chemmove{\draw(db).. controls +(100:5mm) and +(145:5mm)..(a1);}
+
+
+
+
+
+\schemestart[][west]
+\chemfig{-[:45]C=C(-[:-45])-[:45]}
+\arrow{0}[,0]\+
+\chemfig{\lewis{246,Br}-\lewis{026,Br}}
+\schemestop
+
+\newpage
+
+svg uno halogenation  
+
+
+\schemestart
+\chemfig{-[-1]C(-[-3])=C(-[1])-[-1]}  
+\arrow{0}[,0]\+ 
+\chemfig{X-X}
+\arrow
+\chemfig{-[-2]C(-[-2]X)(-[4])-C(-[6]X)(-[0])-[2]}
+\schemestop
+
+\bigskip
+\bigskip
+svg dos
+
+\schemestart
+\chemfig{H-[-1]C(-[-3]H)=C(-[1]H)-[-1]H}  
+\arrow{0}[,0]\+ 
+\chemfig{Cl_2}
+\arrow
+\chemfig{H-[-2]C(-[-2]Cl)(-[4]H)-C(-[6]Cl)(-[0]H)-[2]H}
+\schemestop
+
+
+
+svg 3
+
+\schemestart
+\chemfig{*6(--=---)}  
+\arrow{0}[,0]\+ 
+\chemfig{Br_2}
+\arrow
+\chemfig{*6(--(-Br)-(-Br)---)}
+\schemestop
+
+
+svg 4
+
+\schemestart
+\chemfig{*6(--=---)}  
+\arrow{0}[,0]\+ 
+\chemfig{Br_2}
+\arrow
+\chemfig{*6(--(<:Br)-(<Br)---)}
+\arrow{0}[,0]\+ 
+\arrow{0}[,0]
+\chemfig{*6(--(<Br)-(<:Br)---)}
+\schemestop
+
+
+
+\part{flecha roja desde enlace sencillo hasta cloro}
+
+\schemestart
+\chemfig{[:90]@{aCl2}\lewis{2:4:6:,Cl}-@{ob}\lewis{0:2:6:,Cl}}
+\schemestop
+\chemmove{\draw [,,,,red][shorten <=20pt,shorten >=4pt] (ob.87).. controls +(-90:1cm) and +(120:1cm).. (aCl2);}
+
+
+
+
+
+\schemestart
+\chemfig{@{a1}=_[@{db}::30]-[::-60]\lewis{2,X}}
+\arrow{<->}
+\chemfig{\chemabove{\vphantom{X}}{\ominus}-[::30]=_[::-60]
+	\chemabove{X}{\scriptstyle\oplus}}
+\schemestop
+\chemmove{\draw(db).. controls +(100:5mm) and +(145:5mm)..(a1);}
+
+
+
+\part{flecha roja desde doble enlace a cloro molecular y luego desde enlace sencillo hasta cloro}
+
+\schemestart
+\chemfig{[:90]-[1]@{aC}C(-[-1])=_[@{db}]C(-[3])-[1]}  
+\hspace{1cm}
+\chemfig{[:90]@{aCl2}\lewis{2:4:6:,Cl}-@{aCl}\lewis{0:2:6:,Cl}}
+\arrow{->}
+\chemfig{C*3(-C-\chemabove[3pt]{\lewis{0:4:,Cl}}{\scriptstyle\hspace{-1mm}+}-)}
+\schemestop
+\chemmove{\draw(db)[,,,,red].. controls +(100:5mm) and +(145:5mm)..(aCl);}
+\chemmove{\draw(aCl)[,,,,red].. controls +(65:-5mm) and +(170:-5mm)..(aC);}
+\chemmove{\draw [,,,,red][shorten <=20pt,shorten >=4pt] (aCl.87).. controls +(-90:1cm) and +(120:1cm).. (aCl2);}
+
+
+control t
+control u
+
+\title{ pdf2svg Halogenation.pdf dos.svg
+}
+
+\end{document}
