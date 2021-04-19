@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo apt install git
 git config --global user.email byandersj@gmail.com
 git config --global user.name PcAudio
 git config -l
