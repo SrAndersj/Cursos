@@ -74,3 +74,20 @@ https://musical-artifacts.com/artifacts?formats=sf2&order=top_rated&tags=choir
 
 
 
+
+parese ser que para activar anaconda
+
+source ~/anaconda3/bin/activate root
+anaconda-navigator
+
+
+para abrir el navegador
+
+anaconda-navigator
+
+
+Editor de markdown Typora https://typora.io/#linux
+ sudo snap install typora
+
+
+
