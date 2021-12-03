@@ -159,3 +159,6 @@ Nivel 2 experimenta con cualquiera de las triadas anteriores pero prueba usando 
 
 
 
+# la temperatura del color
+
+
