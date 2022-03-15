@@ -56,3 +56,8 @@ uso de los recursos para referencia de rostro(using the face reference assets)  
 
 
 donde dice activos de referencia le damos click  o recuros de reernacia para descargar
+
+
+# en gimp
+## shif R para rotar  shif s escalar
+S
