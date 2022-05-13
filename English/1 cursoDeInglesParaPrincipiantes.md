@@ -278,7 +278,7 @@ i
 
  I frequently play with my dog
 
- I oten shop online 
+ I often shop online 
  
  sometimes i drink tea 
 

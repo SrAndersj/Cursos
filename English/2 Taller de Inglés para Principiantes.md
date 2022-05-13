@@ -199,7 +199,7 @@ nice to meet you too ,Eddie
 
 and where are you from ?
 
-i am rom colombia , i'm colombian 
+i am from colombia , i'm colombian 
 
 
 Great . and  what is your phone number 
@@ -241,7 +241,7 @@ what is four full name?
 
 my name is jess 
 
-my full name is fess harris
+my full name is jess harris
 
 my first name is jess
 

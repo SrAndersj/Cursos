@@ -228,3 +228,373 @@ are they excited?
 # simple present with other verbs 
 
 
+Simple present with other verbs. In our previous class we practiced simple present with 
+verb "to be "  this time we will practice the other option 
+
+Remember we have two separeted elements Verb "to be" or other verbs in the future , you will see  how to make a combination of these two elements 
+
+
+but for now remember they are separated
+
+
+let's see what is that other verbs are essentially any action that is not the verb "to bew  "
+
+go , play , visit , travel, cook 
+
+we need to use " do  " and "does " when we use other verbs in order to make the negative  statements and the questions 
+
+in the affirmations there is somthing also very special 
+
+let's give a look at that .Let's check these sentences 
+
+i want you to practice the pronunciatio after me 
+
+number one  
+
+i play soccer
+
+she plays soccer 
+
+you listen to music
+
+she/he listens to music 
+
+we watch tv
+she watches tv 
+
+
+the study english
+she/he studies english 
+
+
+can you see the diffference between the to groups of sentences?
+
+the difference is that when we use  , he/she/it 
+
+we need to add an extra letter or an extra group o letters
+
+ffor example: play /plays   watch /watches   study/ studies 
+
+
+these transformations are very important and they happen in affirmative sentences only 
+
+go to the resource  section and download an extra document with the rules that you need to follow when you add the s, the "ES" or the "IES" to the actions 
+
+
+this is called third person "HE","SHE" ans "it"
+
+they have these special variations in 
+
+# Reading and writing exercise : describing people 
+
+let's get more practice on simple present with the verb "to be" and with other verbs . go to the resource section and download a worksheet. in that  document , i give you an example about how to describe a person  . i describe 
+
+
+## example
+
+- this is my father. he is 56 years old.He lives in california and he is a sales consultant.He likes to run in the morning and he loves eating vegetables
+
+- he doesn't watch TV very often but he reads the newspaper.he doesn't speak english but he speaks italian
+
+
+ 
+i used simple present with the verb "to be " and with other verbs 
+
+download the document and describe a  person in your family. your mother ,your sister, the person that you want to practice this vocabulary 
+
+Remember to put all this information together in your workbook, so you can get your final project, beautiful and ready at the end of the course. see you next class 
+
+
+# My daily routine 
+
+let's now practice  how to say our daily routine ,but what is a daily routine?
+
+our routine is something that you do very frequently or that you do very often and "daily"
+means that you do it every day. 
+
+check these pictures and select one that doesn't belong to the group. One activity that you don't do every day 
+
+
+the other three are part of you daily routine. 
+you probably selected traveling 
+
+maybe you want to travel every day , but you work  and you study ,
+so you  don't travel every day 
+
+it's not part of your daily routine. 
+Go to the resource section and download an extra document with some vocabulary about your daily routine .We use the daily  routine to talk  about our habits and about our regular activities in one day 
+
+
+
+
+- Weke up   Despertarse
+
+- Turn off my alarm  Apagar la alarma
+
+- Get up    Levantarse
+
+- Take a shower /have a shower    tomar un baño 
+
+- Get dressed  verstirse 
+
+- comb the hair   peinarse
+
+- Make breakfast   hacer el desayuno 
+
+- Eat breakfast / Have breakfast   desayunar 
+
+- Brush my teeth   cepillarse los dientes
+
+- Go to work    ir al trabajo
+
+- Start work at 9     empezar a trabajar 
+
+- answer emails  
+
+- eat lunch / have lunch   almorzar 
+
+- Work on my computer   trabajar en el computador
+
+- finish work at 5  terminar de trabajar
+
+- go home     ir a casa
+
+- arrive home  llegar a casa
+
+- Feed the dog     alimentar al perro
+
+- Cook dinner      hacer la cena
+
+- Eat dinner /Have dinner    cenar
+
+- watch TV      ver Tv 
+
+- Read a book
+
+- Go to bed 
+
+
+
+Don't forget to check the document that i mentioned and now i will give you an example of my personal routine 
+
+* I wake up very early and i exercise for 20 minutes . i read my favorite book and i take a shower.Then , i go to work . i come back home at night and is go to bed after dinner 
+
+
+this is my personal routine. what is your daily routine ?
+
+use my routine as your example and check  the vocabulary in the document , so you can write your routine 
+
+Remember to do this in your workbook and share your answers in the chat if you want 
+
+i look forward to checking your  personal routine and i will see you next class 
+
+# Whats your daily routine_
+
+in this class , we will learn the daily routine of another person
+
+you Know my daily routnie and i Know your daily routine 
+
+Now let's see the routine of another person , so you can see and practice he and she , when we use actions for that person 
+
+you will listen and watch a short video of a friend that is pesting his personal routine
+
+
+pay attention to the vocabulary. and if  you have questions remember you can check the extra document in the resource section in the previous class , so you can see a list of the most common vocabulary  for daily routines. Listen and pay attention 
+
+
+Hey jess, how are you ?
+
+Hi john  , i 'm good 
+
+Nice              jess , what's your daily routine ?
+
+i wake up at 7 am and i brush my teeth . I read my favorite book and i take a shoer . i go to work and i have lunch there . i come back home at 6 : 00 . i cook dinner and i watch TV
+
+
+Amazing , jess . thank you .
+
+
+we already listened to jess's routine 
+
+Now let's see the vocabulary that he used.
+Rememmber when we use he /she /it  in the sentences 
+we need to transform the action a little bit . so this is jess's routine but now we say that routine . Let's do it together 
+
+
+- He wakes up at 7 am and he brushes  his teeth .He reads his favorite book and he takes a shower.He goes to work and he has lunch there .He comes back home at 6 pm , he cooks dinner and he taches TV
+
+
+this is jess's daily routine . i want you to practice with the routine of another person 
+
+so you can get more experience in the transformation o the actions when you use he /she /it 
+
+go ahead and ask the daily routine to a person in your family or to a friend and write a similar routine to the example, so you can practice the vocabulary and the gammar 
+
+don't forget to write the answers in your workbook and i will see you next class 
+
+# WH Questions in simple present 
+
+Welcome to a new module.i'm very excited to be here with you and i have some surprises for you to practice in this class. Let's find it out
+
+"WH"  questions in simple present. in previous classes ,
+
+
+we practiced "yes" and "no " questions . simple questions that you answer with a yes or a no,  for example, doy like pizza? yes or no? are you from Colombia ?
+
+in this class we will partice information questions and for this i have some special vocabulary  let's check it out 
+
+- who?          [1]
+- where?        [2]
+- when ?        [3]
+- what ?        [4]
+- why ?         [5]
+- which ?       [6]
+
+these words are used for asking informtaion questions . your job  in this activity is to connect these elements in the corresponding form. i will gie you a moment . you can pause this video and connect the question words with corresponding uses 
+
+
+let's now  check your answers
+"Who " is the question that we ask for people . , very well 
+
+people, for example : Who is that person in the window ?
+
+- Things        [4] 
+- Reasons       [5] 
+- Options       [6]
+- Times         [3] 
+- Peole         [1]
+- Places            [2]      
+
+
+
+"where" is a question that we use for places . for example: where is the supermarket?
+"when" that we use it for times . For example: when is your class? oh , my class is tomorrow 
+"what" is a very unique question word because we can use it for things, or you can use it also for many other things. you can say : what is your phone number ? it's a thing , right?
+
+but you can also make combinations and you can say : what time is you class? 
+it's another question for time 
+
+or you can make open questions like : what's  your name?
+
+"what" is a very common question word in English 
+
+"Why" it's a question about reasons. why do you do that ? , that's not okay , why?  i want to Know the reason. and finally , 
+
+"Which" for "which" we use options , for wxample : Which is your favorite color ? blue or black?
+
+
+that's different when i say what's your favorite color ?  the question is very open , very general
+
+when i use " Which" i have options. 
+
+the best way to master this topic is with practice. so i want you to do a couple of exercises and for instance i will use "where"
+
+i want you to practice making a questions using each of the question words and also making questions with the verb "to be " and with other verbs 
+
+
+- practice 
+
+- Where is the car?         where do you live?  
+
+
+check my example . where. for number onw : where is the car?  "is" i 'm using verb "to be "
+
+second  question  , where do you live? it's another question but this time with another verb
+
+do the same activity with all the other question word 
+
+"when", "why ", "which " so you can practice  Remember to write your  answers in your workbook 
+
+# preposition of place .
+
+ in this class , we will practice some very useful vocabulary that can help you describe or talk about places.
+
+ Let's first look at this beautiful cat 
+
+ where is the cat? take a moment and gice me your answer 
+
+ the cat is in the box . Now in this sentence i put a preposition of place 
+
+ can you see the preposition of place? take a moment 
+
+ the preposition of place is "in " because it gives me information about the location of 
+ the beautiful cat "is in the box" because i can close the box and now is in the box 
+
+ let's give a look at one more example . that coffe looks delicious 
+
+ Where is  the cup of coffe?
+ 
+
+ the cup o coffie is on the table . 
+ what is the preposition in this sentence?
+
+ the preposition is "on" , "on " is another prepositon that we normally use for horizontal
+ , vertical or surface in general 
+
+  the cup of coffe is on the table , is a surface 
+
+  or for instance , my pictures , my paintings are on the wall 
+  it's a vertical surface. there are more uses for "on" but these are the most common 
+
+  let's check another preposition of place 
+
+  look at the lady , 
+  where is she? 
+
+  take a moment and give me your answer 
+
+  she is in front of the laptop . again , tell me what is the preposition of place here?
+
+  and the answer is "in ront of"
+
+  that means for instance , right now , i am in front of my computer 
+
+  i am in front of the window "in ront " she is in front of the laptop 
+
+
+  and let's check one more . Look at the kids, where are they? 
+
+take a moment and tell me your answer
+
+they are next to the christmas tree
+
+what's the preposition in this sentence? 
+
+the answer is "next to " for example , i am next to the door 
+
+or i am next to my microphone. "Next to"  there are more prepositions in English and we can continue talking about this for hours, but these are the most common ones that we will practice this time , 
+
+"Beside" is an example of another form to say " next to"  i am next to the window . i am beside the window 
+
+"Behind" is the opposite o in "in front" for instnce , i am in front of my computer , or the books or the picture are behind me 
+
+"Under" for instance , my cat is under the table . you don't see it,  but my cat is under the table and
+ "over" is the opposite of "under" , the light is over my computer or it's over me
+
+
+[]0   Beside
+
+[]   under
+0
+
+0      over
+[]
+
+y cuando esta atras Behind 
+
+
+
+# Listening exercise 
+
+it's now time to practice your listening skills . in this class, you will listen to three people talking about their characteristics and their location 
+
+Listen to these audios and answer the questions:
+
+ what is his or her name ?
+
+ where are they ?
+
+ what's their job ?
+
+ where do they live ?
+
